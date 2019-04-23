@@ -1,2 +1,2 @@
 # SpringBootTest1
-Just walked through and toying with a Spring Boot tutorial
+Walked through and messed with a Spring Boot tutorial
